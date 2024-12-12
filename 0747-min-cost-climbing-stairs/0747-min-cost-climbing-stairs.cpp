@@ -7,8 +7,14 @@ public:
         return dp[i]=cost[i]+min(helper(cost,i-1,dp),helper(cost,i-2,dp));
     }
     int minCostClimbingStairs(vector<int>& cost) {
-        int n = cost.size();
-        vector<int> dp(n, -1);
-        return min(helper(cost,n-1,dp),helper(cost,n-2,dp));
+        // int n = cost.size();
+        // vector<int> dp(n, -1);
+        // return min(helper(cost,n-1,dp),helper(cost,n-2,dp));
+
+        int n=cost.size();
+        for(int i=2;i<n;i++){
+            cost[i]+=min(cost[i-1],cost[i-2]);
+        }
+        return min(cost[n-1],cost[n-2]);
     }
 };
