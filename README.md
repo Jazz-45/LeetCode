@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Jazz-45/LeetCode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jazz-45/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Jazz-45/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1063-best-sightseeing-pair](https://github.com/Jazz-45/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jazz-45/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Jazz-45/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jazz-45/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Jazz-45/LeetCode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jazz-45/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Jazz-45/LeetCode/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/Jazz-45/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/Jazz-45/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2164-two-best-non-overlapping-events](https://github.com/Jazz-45/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
