@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Jazz-45/LeetCode/tree/master/0133-clone-graph) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jazz-45/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jazz-45/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Jazz-45/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Jazz-45/LeetCode/tree/master/0133-clone-graph) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jazz-45/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/Jazz-45/LeetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Jazz-45/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Jazz-45/LeetCode/tree/master/0133-clone-graph) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jazz-45/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/Jazz-45/LeetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Jazz-45/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Jazz-45/LeetCode/tree/master/0133-clone-graph) |
 | [0820-find-eventual-safe-states](https://github.com/Jazz-45/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Jazz-45/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1916-find-center-of-star-graph](https://github.com/Jazz-45/LeetCode/tree/master/1916-find-center-of-star-graph) |
