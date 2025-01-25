@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Jazz-45/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1916-find-center-of-star-graph](https://github.com/Jazz-45/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Jazz-45/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Backtracking
 |  |
