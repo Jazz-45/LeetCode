@@ -1,36 +1,23 @@
 class Solution {
 public:
-    void computeSums(const vector<int>& nums, int start, int end,  vector<long long>& sums) {
-        sums.push_back(0);
-        for (int i = start; i < end; ++i) {
-            int num = nums[i];
-            int n = sums.size();
-            for (int j = 0; j < n; ++j) {
-                sums.push_back(sums[j] + num);
-                sums[j] -= num;
-            }
+
+    vector<vector<int>> dp;
+    int total;
+    int helper(vector<int>& nums,int idx, int target,int currSum){
+        if(idx>=nums.size()){
+            if(currSum==target) return 1;
+            else return 0;
         }
+        if(dp[idx][currSum+total]!=6969) return dp[idx][currSum+total];
+        int add=helper(nums,idx+1,target,currSum+nums[idx]);
+        int subtract=helper(nums,idx+1,target,currSum-nums[idx]);
+        return dp[idx][currSum+total]=add+subtract;
     }
 
     int findTargetSumWays(vector<int>& nums, int target) {
-        int n = nums.size();
-        int mid = n / 2;
-        vector<long long> sums1;
-        vector<long long> sums2;
-        computeSums(nums, 0, mid, sums1);
-        computeSums(nums, mid, n, sums2);
-        unordered_map<long long, long long> countMap;
-        for (auto sum : sums2) {
-            countMap[sum]++;
-        }
-        long long total = 0;
-        for (auto sum : sums1) {
-            long long complement = (long long)target - sum;
-            if (countMap.find(complement) != countMap.end()) {
-                total += countMap[complement];
-            }
-        }
 
-        return total;
+        for(int ele:nums) total+=ele;
+        dp.resize(nums.size(),vector<int>(2*total+1,6969));
+        return helper(nums,0,target,0);
     }
 };
