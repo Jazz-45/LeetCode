@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Jazz-45/LeetCode/tree/master/0133-clone-graph) |
 | [0797-rabbits-in-forest](https://github.com/Jazz-45/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1160-letter-tile-possibilities](https://github.com/Jazz-45/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Jazz-45/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jazz-45/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Jazz-45/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Jazz-45/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jazz-45/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jazz-45/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Jazz-45/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Jazz-45/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Jazz-45/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jazz-45/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Stack
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Jazz-45/LeetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Jazz-45/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Jazz-45/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Jazz-45/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Jazz-45/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Jazz-45/LeetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Jazz-45/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Jazz-45/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Jazz-45/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Jazz-45/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -322,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Jazz-45/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
