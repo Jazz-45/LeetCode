@@ -1,34 +1,49 @@
 class Solution {
 public:
-    vector<vector<int>> highestPeak(vector<vector<int>>& isWater) {
-        int R = isWater.size();
-        int C = isWater[0].size();
-        vector<vector<int>> height(R, vector<int>(C, R + C)); // Initialize with a safe sentinel value
 
-        // First pass: set water cells to 0 and propagate height from top-left to bottom-right
-        for (int i = 0; i < R; i++) {
-            for (int j = 0; j < C; j++) {
-                if (isWater[i][j] == 1) {
-                    height[i][j] = 0; // Water cell has height 0
-                } else {
-                    if (i > 0) 
-                        height[i][j] = min(height[i][j], height[i - 1][j] + 1); // Check from top
-                    if (j > 0) 
-                        height[i][j] = min(height[i][j], height[i][j - 1] + 1); // Check from left
+    void bfs(vector<vector<int>>& isWater,vector<vector<int>>& vis,int i,int j){
+        queue<pair<int,int>> q;
+    }
+    vector<vector<int>> highestPeak(vector<vector<int>>& isWater) {
+        int m=isWater.size(),n=isWater[0].size();
+
+        vector<vector<int>> ans(m,vector<int>(n,-1));
+        vector<vector<int>> vis(m,vector<int>(n,0));
+        queue<pair<int,int>> q;
+        
+
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(isWater[i][j]==1){
+                    q.push({i,j});
+                    vis[i][j]=1;
+                    ans[i][j]=0;
                 }
             }
         }
 
-        // Second pass: propagate height from bottom-right to top-left
-        for (int i = R - 1; i >= 0; i--) {
-            for (int j = C - 1; j >= 0; j--) {
-                if (i < R - 1) 
-                    height[i][j] = min(height[i][j], height[i + 1][j] + 1); // Check from bottom
-                if (j < C - 1) 
-                    height[i][j] = min(height[i][j], height[i][j + 1] + 1); // Check from right
+        while(!q.empty()){
+            auto p=q.front();
+            q.pop();
+            int i=p.first;
+            int j=p.second;
+
+            int delrow[]={1,-1,0,0};
+            int delcol[]={0,0,1,-1};
+
+            for(int k=0;k<4;k++){
+                int nrow=i+delrow[k];
+                int ncol=j+delcol[k];
+
+                if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && ans[nrow][ncol]==-1){
+                        ans[nrow][ncol]=1+ans[i][j];
+                        q.push({nrow,ncol});
+                    }
             }
         }
 
-        return height;
+        return ans;
+        
+
     }
 };
