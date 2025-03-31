@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Jazz-45/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Jazz-45/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jazz-45/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1753-path-with-minimum-effort](https://github.com/Jazz-45/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Jazz-45/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/Jazz-45/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Jazz-45/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Jazz-45/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1753-path-with-minimum-effort](https://github.com/Jazz-45/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Jazz-45/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Jazz-45/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jazz-45/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1753-path-with-minimum-effort](https://github.com/Jazz-45/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jazz-45/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Jazz-45/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jazz-45/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Jazz-45/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Jazz-45/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/Jazz-45/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Jazz-45/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Jazz-45/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Jazz-45/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Jazz-45/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/Jazz-45/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Jazz-45/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jazz-45/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -448,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Jazz-45/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Jazz-45/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Jazz-45/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/Jazz-45/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Jazz-45/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jazz-45/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Jazz-45/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -460,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Jazz-45/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Jazz-45/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Jazz-45/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/Jazz-45/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/Jazz-45/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jazz-45/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
