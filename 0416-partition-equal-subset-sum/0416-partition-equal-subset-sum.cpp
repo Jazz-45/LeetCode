@@ -2,10 +2,14 @@ class Solution {
 public:
     vector<vector<int>> dp;
     bool helper(vector<int>& nums , int i, int sum, int target){
-        if(i==nums.size()) return false;
+        if(i==nums.size()){
+            if(sum==target) return true;
+            else return false;
+        }
 
         if(sum==target) return true;
         if(dp[i][sum]!=-1) return dp[i][sum];
+        if(sum+nums[i]>target) return dp[i][sum]=helper(nums,i+1,sum,target);
         bool take=helper(nums,i+1,sum+nums[i],target);
         bool leave=helper(nums,i+1,sum,target);
         return dp[i][sum]=take||leave;
