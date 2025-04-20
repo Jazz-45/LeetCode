@@ -1,25 +1,24 @@
 class Solution {
 public:
     int numRabbits(vector<int>& answers) {
-        unordered_map<int, int> m;
-        int minRabbits = 0;
+        unordered_map<int,int> m;
+        int result=0;
+        for(int i=0;i<answers.size();i++){
+            if(!m[answers[i]+1]){ // we are starting a new group
+                result+=answers[i]+1;
 
-        for (int answer : answers) {
-            if (answer == 0) {
-                // If a rabbit claims no other rabbits of the same type, count it directly
-                minRabbits++;
-            } else {
-                // Check if there's space left in an existing group
-                if (m[answer] > 0) {
-                    m[answer]--; // Decrement the available slots for this group
-                } else {
-                    // Start a new group
-                    minRabbits += answer + 1; // Add the size of the new group
-                    m[answer] = answer; // Set available slots for this group
+                if(answers[i]==0) continue;
+                m[answers[i]+1]=1;
+            }
+            else{
+                m[answers[i]+1]++;
+                int key=answers[i]+1;
+                int val=m[answers[i]+1];
+                if(key==val){
+                    m.erase(m[answers[i]+1]);
                 }
             }
         }
-
-        return minRabbits;
+        return result;
     }
 };
