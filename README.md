@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Jazz-45/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Jazz-45/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/Jazz-45/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Jazz-45/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Jazz-45/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/Jazz-45/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Jazz-45/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jazz-45/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Jazz-45/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jazz-45/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Jazz-45/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Jazz-45/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Jazz-45/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jazz-45/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Jazz-45/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jazz-45/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Jazz-45/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jazz-45/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Design
 |  |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Jazz-45/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Jazz-45/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Jazz-45/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Bit Manipulation
