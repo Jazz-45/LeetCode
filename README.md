@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Jazz-45/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Jazz-45/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/Jazz-45/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
+| [2915-count-of-interesting-subarrays](https://github.com/Jazz-45/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Jazz-45/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Jazz-45/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Jazz-45/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Jazz-45/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Jazz-45/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Jazz-45/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/Jazz-45/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Jazz-45/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jazz-45/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jazz-45/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Jazz-45/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/Jazz-45/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2915-count-of-interesting-subarrays](https://github.com/Jazz-45/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/Jazz-45/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Jazz-45/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Jazz-45/LeetCode/tree/master/3643-zero-array-transformation-ii) |
