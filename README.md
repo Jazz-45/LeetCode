@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Jazz-45/LeetCode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/Jazz-45/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Jazz-45/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jazz-45/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1160-letter-tile-possibilities](https://github.com/Jazz-45/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jazz-45/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Jazz-45/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Jazz-45/LeetCode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Jazz-45/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jazz-45/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Jazz-45/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jazz-45/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1300-critical-connections-in-a-network](https://github.com/Jazz-45/LeetCode/tree/master/1300-critical-connections-in-a-network) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/Jazz-45/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Jazz-45/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Jazz-45/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jazz-45/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/Jazz-45/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Jazz-45/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1916-find-center-of-star-graph](https://github.com/Jazz-45/LeetCode/tree/master/1916-find-center-of-star-graph) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Jazz-45/LeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Jazz-45/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Jazz-45/LeetCode/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Jazz-45/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Jazz-45/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Jazz-45/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Jazz-45/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
