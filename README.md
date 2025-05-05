@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jazz-45/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/Jazz-45/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Jazz-45/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0806-domino-and-tromino-tiling](https://github.com/Jazz-45/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Jazz-45/LeetCode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Jazz-45/LeetCode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/Jazz-45/LeetCode/tree/master/1063-best-sightseeing-pair) |
