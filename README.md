@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jazz-45/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Jazz-45/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Jazz-45/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Jazz-45/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Jazz-45/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jazz-45/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Jazz-45/LeetCode/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/Jazz-45/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Jazz-45/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Jazz-45/LeetCode/tree/master/0133-clone-graph) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jazz-45/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Jazz-45/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jazz-45/LeetCode/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/Jazz-45/LeetCode/tree/master/0126-word-ladder-ii) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Jazz-45/LeetCode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Jazz-45/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jazz-45/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Jazz-45/LeetCode/tree/master/0130-surrounded-regions) |
