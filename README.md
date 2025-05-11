@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jazz-45/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jazz-45/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Jazz-45/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Jazz-45/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Jazz-45/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Jazz-45/LeetCode/tree/master/0072-edit-distance) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jazz-45/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Jazz-45/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Jazz-45/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Jazz-45/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Jazz-45/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jazz-45/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Jazz-45/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Jazz-45/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Jazz-45/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Jazz-45/LeetCode/tree/master/0051-n-queens) |
