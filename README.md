@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jazz-45/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Jazz-45/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Jazz-45/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jazz-45/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0494-target-sum](https://github.com/Jazz-45/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jazz-45/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0721-accounts-merge](https://github.com/Jazz-45/LeetCode/tree/master/0721-accounts-merge) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Jazz-45/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Jazz-45/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Jazz-45/LeetCode/tree/master/0133-clone-graph) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jazz-45/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0721-accounts-merge](https://github.com/Jazz-45/LeetCode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/Jazz-45/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Jazz-45/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Jazz-45/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jazz-45/LeetCode/tree/master/0090-subsets-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jazz-45/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0800-letter-case-permutation](https://github.com/Jazz-45/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jazz-45/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jazz-45/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -697,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Jazz-45/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jazz-45/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
