@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jazz-45/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/Jazz-45/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Jazz-45/LeetCode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Jazz-45/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Jazz-45/LeetCode/tree/master/0768-partition-labels) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Jazz-45/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Jazz-45/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jazz-45/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Jazz-45/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Jazz-45/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jazz-45/LeetCode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Jazz-45/LeetCode/tree/master/0130-surrounded-regions) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Jazz-45/LeetCode/tree/master/0075-sort-colors) |
 | [0721-accounts-merge](https://github.com/Jazz-45/LeetCode/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Jazz-45/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jazz-45/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
