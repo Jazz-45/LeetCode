@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Jazz-45/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Jazz-45/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jazz-45/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Jazz-45/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Jazz-45/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Jazz-45/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jazz-45/LeetCode/tree/master/0090-subsets-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jazz-45/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jazz-45/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Jazz-45/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Jazz-45/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Jazz-45/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Jazz-45/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Jazz-45/LeetCode/tree/master/0133-clone-graph) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Jazz-45/LeetCode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Jazz-45/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jazz-45/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Jazz-45/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Jazz-45/LeetCode/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/Jazz-45/LeetCode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Jazz-45/LeetCode/tree/master/0854-making-a-large-island) |
