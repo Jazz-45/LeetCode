@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jazz-45/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Jazz-45/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Jazz-45/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Jazz-45/LeetCode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Jazz-45/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Jazz-45/LeetCode/tree/master/0768-partition-labels) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Jazz-45/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Jazz-45/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Jazz-45/LeetCode/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/Jazz-45/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Jazz-45/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Jazz-45/LeetCode/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/Jazz-45/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
