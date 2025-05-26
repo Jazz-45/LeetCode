@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jazz-45/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jazz-45/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Jazz-45/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Jazz-45/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Jazz-45/LeetCode/tree/master/0283-move-zeroes) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jazz-45/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jazz-45/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Jazz-45/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Jazz-45/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Jazz-45/LeetCode/tree/master/0051-n-queens) |
