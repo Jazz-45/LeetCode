@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jazz-45/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jazz-45/LeetCode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Jazz-45/LeetCode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Jazz-45/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Jazz-45/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jazz-45/LeetCode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Jazz-45/LeetCode/tree/master/0268-missing-number) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Jazz-45/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jazz-45/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Jazz-45/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Jazz-45/LeetCode/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jazz-45/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0800-letter-case-permutation](https://github.com/Jazz-45/LeetCode/tree/master/0800-letter-case-permutation) |
