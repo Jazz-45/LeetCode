@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Jazz-45/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Jazz-45/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jazz-45/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Jazz-45/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Jazz-45/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Jazz-45/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jazz-45/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Jazz-45/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Jazz-45/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jazz-45/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Jazz-45/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Jazz-45/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jazz-45/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jazz-45/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Jazz-45/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/Jazz-45/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jazz-45/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Jazz-45/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Jazz-45/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/Jazz-45/LeetCode/tree/master/2662-check-knight-tour-configuration) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Jazz-45/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
