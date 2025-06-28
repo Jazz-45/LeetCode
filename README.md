@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jazz-45/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Jazz-45/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jazz-45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jazz-45/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Jazz-45/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jazz-45/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Jazz-45/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Jazz-45/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Jazz-45/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/Jazz-45/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jazz-45/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Jazz-45/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Jazz-45/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Jazz-45/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jazz-45/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Jazz-45/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jazz-45/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jazz-45/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Jazz-45/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Jazz-45/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Jazz-45/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Jazz-45/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Jazz-45/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Jazz-45/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jazz-45/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jazz-45/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2681-put-marbles-in-bags](https://github.com/Jazz-45/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Jazz-45/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
