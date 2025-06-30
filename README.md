@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Jazz-45/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Jazz-45/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Jazz-45/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Jazz-45/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Jazz-45/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Jazz-45/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Jazz-45/LeetCode/tree/master/0127-word-ladder) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Jazz-45/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Jazz-45/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Jazz-45/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Jazz-45/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Jazz-45/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Jazz-45/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jazz-45/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Jazz-45/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Jazz-45/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Jazz-45/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Jazz-45/LeetCode/tree/master/0207-course-schedule) |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Jazz-45/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Jazz-45/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Jazz-45/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Jazz-45/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Jazz-45/LeetCode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Jazz-45/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/Jazz-45/LeetCode/tree/master/0494-target-sum) |
@@ -838,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Jazz-45/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jazz-45/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Jazz-45/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Jazz-45/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Jazz-45/LeetCode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jazz-45/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Jazz-45/LeetCode/tree/master/0733-flood-fill) |
