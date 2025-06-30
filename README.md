@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Jazz-45/LeetCode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jazz-45/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jazz-45/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Jazz-45/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Jazz-45/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0721-accounts-merge](https://github.com/Jazz-45/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Jazz-45/LeetCode/tree/master/0733-flood-fill) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jazz-45/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Jazz-45/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Jazz-45/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Jazz-45/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/Jazz-45/LeetCode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/Jazz-45/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Jazz-45/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jazz-45/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jazz-45/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Jazz-45/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Jazz-45/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/Jazz-45/LeetCode/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Jazz-45/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Jazz-45/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Jazz-45/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jazz-45/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Jazz-45/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jazz-45/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jazz-45/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Jazz-45/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Jazz-45/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Jazz-45/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Jazz-45/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Jazz-45/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/Jazz-45/LeetCode/tree/master/1396-count-servers-that-communicate) |
