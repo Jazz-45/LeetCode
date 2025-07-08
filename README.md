@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Jazz-45/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Jazz-45/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Jazz-45/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Jazz-45/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Jazz-45/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Jazz-45/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Jazz-45/LeetCode/tree/master/0126-word-ladder-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jazz-45/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Jazz-45/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Jazz-45/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Jazz-45/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Jazz-45/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Jazz-45/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Jazz-45/LeetCode/tree/master/0133-clone-graph) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jazz-45/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Jazz-45/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jazz-45/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jazz-45/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Jazz-45/LeetCode/tree/master/0940-fruit-into-baskets) |
