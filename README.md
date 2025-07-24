@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Jazz-45/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Jazz-45/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Jazz-45/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Jazz-45/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2448-count-number-of-bad-pairs](https://github.com/Jazz-45/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Jazz-45/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Jazz-45/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jazz-45/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Jazz-45/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jazz-45/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Jazz-45/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Jazz-45/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Jazz-45/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Jazz-45/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Jazz-45/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Jazz-45/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Jazz-45/LeetCode/tree/master/2662-check-knight-tour-configuration) |
@@ -1012,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/Jazz-45/LeetCode/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Jazz-45/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jazz-45/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Jazz-45/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/Jazz-45/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Jazz-45/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jazz-45/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
