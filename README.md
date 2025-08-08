@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Jazz-45/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Jazz-45/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Jazz-45/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/Jazz-45/LeetCode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/Jazz-45/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jazz-45/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Jazz-45/LeetCode/tree/master/1013-fibonacci-number) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Jazz-45/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/Jazz-45/LeetCode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/Jazz-45/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/Jazz-45/LeetCode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/Jazz-45/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Jazz-45/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jazz-45/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1215,4 +1217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jazz-45/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Jazz-45/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
