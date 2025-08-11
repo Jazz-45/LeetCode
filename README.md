@@ -825,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jazz-45/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Jazz-45/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Jazz-45/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jazz-45/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jazz-45/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Jazz-45/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Jazz-45/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Stack
