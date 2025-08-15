@@ -20,11 +20,46 @@ public:
 
         dp.clear();
         dp.resize(m,vector<int>(m,50000));
+        
+        // int ans=INT_MAX;
+        // for (int col=0;col<m;col++) {
+        //     ans = min(ans, helper(matrix, 0, col));
+        // }
+        // Memoization
+        // return ans;
 
-        int ans=INT_MAX;
-        for (int col=0;col<m;col++) {
-            ans = min(ans, helper(matrix, 0, col));
+        //Tabulation
+        // for(int j=0;j<m;j++) dp[m-1][j]=matrix[m-1][j];
+
+        // for(int i=m-2;i>=0;i--){
+        //     for(int j=0;j<m;j++){
+        //         int down = dp[i+1][j];
+        //         int downLeft = (j > 0) ? dp[i+1][j-1] : INT_MAX;
+        //         int downRight = (j < m-1) ? dp[i+1][j+1] : INT_MAX;
+        //         dp[i][j] = matrix[i][j] + min({down, downLeft, downRight});
+        //     }
+        // }
+
+        // int ans=INT_MAX;
+        // for(int i=0;i<m;i++) ans=min(ans,dp[0][i]);
+        // return ans;
+
+        // Space Optimization
+        vector<int> prev(m,50000),curr(m,50000);
+        for(int j=0;j<m;j++) curr[j]=matrix[m-1][j];
+        prev=curr;
+
+        for(int i=m-2;i>=0;i--){
+            for(int j=0;j<m;j++){
+                int down = prev[j];
+                int downLeft = (j > 0) ? prev[j-1] : INT_MAX;
+                int downRight = (j < m-1) ? prev[j+1] : INT_MAX;
+                curr[j] = matrix[i][j] + min({down, downLeft, downRight});
+            }
+            prev=curr;
         }
+        int ans=INT_MAX;
+        for(int j=0;j<m;j++) ans=min(ans,prev[j]);
         return ans;
     }
 };
