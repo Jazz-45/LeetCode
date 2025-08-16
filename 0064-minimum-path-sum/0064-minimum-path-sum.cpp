@@ -31,7 +31,7 @@ public:
         vector<int> curr(n,INT_MAX), prev(n,INT_MAX);
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(i==0 && j==0) curr[j]=grid[0][0];
+                if(i==0 && j==0) curr[0]=grid[0][0];
                 else{
                     int top=(i>0) ? prev[j] : INT_MAX;
                     int left=(j>0) ? curr[j-1] : INT_MAX;
