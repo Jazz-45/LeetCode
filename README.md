@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Jazz-45/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Jazz-45/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Jazz-45/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Jazz-45/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Jazz-45/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Jazz-45/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Jazz-45/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Jazz-45/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Jazz-45/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jazz-45/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0867-new-21-game](https://github.com/Jazz-45/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Jazz-45/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jazz-45/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jazz-45/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Jazz-45/LeetCode/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/Jazz-45/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Jazz-45/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Jazz-45/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Jazz-45/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Jazz-45/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Jazz-45/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -1319,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Jazz-45/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Jazz-45/LeetCode/tree/master/0867-new-21-game) |
 ## Iterator
 |  |
 | ------- |
