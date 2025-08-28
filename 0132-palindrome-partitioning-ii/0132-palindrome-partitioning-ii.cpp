@@ -23,9 +23,23 @@ public:
         }
         return dp[i]=minCost;
     }
+    
     int minCut(string s) {
+        int n=s.length();
         dp.clear();
-        dp.resize(s.length(),-1);
-        return helper(s,0)-1;
+        dp.resize(s.length()+1,0);
+        //return helper(s,0)-1;
+
+        for(int i=n-1;i>=0;i--){
+            int minCost=1e8;
+            for(int j=i;j<s.length();j++){
+                if(isPalindrome(s,i,j)){
+                    int cost=1+dp[j+1];
+                    minCost=min(minCost,cost);
+                }
+            }
+            dp[i] = minCost;
+        }
+        return dp[0]-1;
     }
 };
