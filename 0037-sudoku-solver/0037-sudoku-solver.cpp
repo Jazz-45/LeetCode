@@ -20,16 +20,9 @@ public:
     // Check if placing digit k at (row, col) is valid
     bool isSafe(vector<vector<char>>& board, int row, int col, int k) {
         char digit = k + '0';
-
-        // Check row
-        for (int j = 0; j < 9; j++) {
-            if (board[row][j] == digit) return false;
-        }
-
-        // Check column
-        for (int i = 0; i < 9; i++) {
-            if (board[i][col] == digit) return false;
-        }
+        
+        for (int j = 0; j < 9; j++) if (board[row][j] == digit) return false;
+        for (int i = 0; i < 9; i++) if (board[i][col] == digit) return false;
 
         // Check sub-box
         int boxNo = (row / 3) * 3 + (col / 3);
@@ -43,7 +36,7 @@ public:
         if (row == 9) return true; // Solved entire board
         if (col == 9) return solve(board, row + 1, 0); // Move to next row
 
-        if (board[row][col] != '.') return solve(board, row, col + 1); // Skip prefilled cell
+        if (board[row][col]!='.') return solve(board,row,col+1); // Skip prefilled cell
 
         for (int k = 1; k <= 9; k++) {
             if (isSafe(board, row, col, k)) {
