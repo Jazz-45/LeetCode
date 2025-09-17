@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Jazz-45/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Jazz-45/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Jazz-45/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2429-design-a-food-rating-system](https://github.com/Jazz-45/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jazz-45/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jazz-45/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Jazz-45/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Jazz-45/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Jazz-45/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Jazz-45/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/Jazz-45/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Jazz-45/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Jazz-45/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Jazz-45/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Jazz-45/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jazz-45/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Jazz-45/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/Jazz-45/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Jazz-45/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/Jazz-45/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jazz-45/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jazz-45/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Jazz-45/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Jazz-45/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2429-design-a-food-rating-system](https://github.com/Jazz-45/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Jazz-45/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/Jazz-45/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Jazz-45/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -876,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Jazz-45/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/Jazz-45/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/Jazz-45/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3791-fruits-into-baskets-iii](https://github.com/Jazz-45/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue
@@ -1256,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Jazz-45/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Jazz-45/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Jazz-45/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Jazz-45/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Data Stream
 |  |
 | ------- |
