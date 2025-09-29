@@ -1,37 +1,33 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        // Creating the adj list;
-        vector<vector<pair<int,int>>> adj(n,vector<pair<int,int>>());
-
+        vector<vector<pair<int,int>>> adj(n);
         for(auto x: times){
             adj[x[0]-1].push_back({x[1]-1,x[2]});
         }
 
-        priority_queue<pair<int,int>, vector<pair<int, int>>,greater<>> pq;
-        vector<int> distance(n,INT_MAX);
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        vector<int> dist(n,1e9);
+        dist[k-1]=0;
         pq.push({0,k-1});
-        distance[k-1]=0;
 
         while(!pq.empty()){
-            auto p=pq.top();
+            auto p= pq.top();
             pq.pop();
-            int node=p.second;
-            int currTime=p.first;
 
+            int node=p.second,distance=p.first;
             for(auto x: adj[node]){
-                if (currTime + x.second < distance[x.first]) {
-                    distance[x.first] = currTime + x.second;
-                    pq.push({distance[x.first], x.first});
+                if(distance+x.second<dist[x.first]){
+                    dist[x.first]=distance+x.second;
+                    pq.push({dist[x.first],x.first});
                 }
             }
         }
 
-        for(int x: distance){
-            if(x==INT_MAX) return -1;
+        for(int x: dist){
+            if(x==1e9) return -1;
         }
-
-        return *max_element(distance.begin(),distance.end());
+        return *max_element(dist.begin(),dist.end());
 
     }
 };
