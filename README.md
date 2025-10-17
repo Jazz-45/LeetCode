@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Jazz-45/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Jazz-45/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/Jazz-45/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Jazz-45/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jazz-45/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Jazz-45/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3396-valid-word](https://github.com/Jazz-45/LeetCode/tree/master/3396-valid-word) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2893-visit-array-positions-to-maximize-score](https://github.com/Jazz-45/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Jazz-45/LeetCode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Jazz-45/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Jazz-45/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jazz-45/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Jazz-45/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Jazz-45/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -1381,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Jazz-45/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jazz-45/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Jazz-45/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Jazz-45/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Jazz-45/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Jazz-45/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Jazz-45/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1515,5 +1518,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Jazz-45/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jazz-45/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
