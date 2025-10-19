@@ -1,60 +1,58 @@
-class DisjointSet{ 
+class DisjointSet{
     public:
-        vector<int> rank,parent,size;
-        DisjointSet(int n){
-            rank.resize(n+1,0);
-            size.resize(n+1,1);
-            parent.resize(n+1);
-            for(int i=0;i<=n;i++) parent[i]=i;
+    vector<int> parent,rank;
+    
+    DisjointSet(int n){
+        parent.resize(n+1);
+        rank.resize(n+1,0);
+        for(int i=0;i<=n;i++) parent[i]=i;
+    }
+    
+    int findParent(int node){
+        if(node==parent[node]) return node;
+        return parent[node]=findParent(parent[node]);
+    }
+    
+    void unionByRank(int u,int v){
+        int pu=findParent(u),pv=findParent(v);
+        if(pu==pv) return;
+        if(rank[pu]<rank[pv]) parent[pu]=pv;
+        else if(rank[pu]>rank[pv]) parent[pv]=pu;
+        else{
+            parent[pv]=pu;
+            rank[pu]++;
         }
-
-        int findParent(int node){
-            if(node==parent[node]) return node;
-            return parent[node]=findParent(parent[node]);
-        }
-
-        void unionBySize(int u,int v){
-            int ulp_u=findParent(u);
-            int ulp_v=findParent(v);
-
-            if(ulp_u==ulp_v) return;
-
-            if(size[ulp_u]>size[ulp_v]){
-                parent[ulp_v]=ulp_u;
-                size[ulp_u]+=size[ulp_v];
-            }
-            else{
-                parent[ulp_u]=ulp_v;
-                size[ulp_v]+=size[ulp_u];
-            }
-        }
+    }
 };
 
 class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
+        int cables=connections.size();
+        if(cables<n-1) return -1; // MST condition
 
-        DisjointSet ds(n);
+        int extraCables=0;
+        DisjointSet dsu(n);
 
-        int extraEdges=0;
-
-        for(auto x: connections){
-            int u=x[0],v=x[1];
-            int ulp_u=ds.findParent(u);
-            int ulp_v=ds.findParent(v);
-
-            if(ulp_u == ulp_v) extraEdges++;
+        for(auto it: connections){
+            int u=it[0],v=it[1];
+            if(dsu.findParent(u)!=dsu.findParent(v)){
+                dsu.unionByRank(u,v);
+            }
             else{
-                ds.unionBySize(u,v);
+                // Extra Cables
+                extraCables++;
             }
         }
 
-        int components=0;
+        int remNodes=0;
         for(int i=0;i<n;i++){
-            if(ds.parent[i]==i) components++;
+            if(i==dsu.parent[i]) remNodes++;
         }
 
-        if(extraEdges>=components-1) return components-1;
-        else return -1;
+        return remNodes-1;
+
+
+        
     }
 };
