@@ -1,30 +1,27 @@
 class Solution {
 public:
     int swimInWater(vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size();
-        priority_queue<tuple<int,int,int>, vector<tuple<int,int,int>>, greater<>> pq;
-        vector<pair<int,int>> directions = {{0,1}, {1,0}, {0,-1}, {-1,0}};
-        set<pair<int,int>> seen;
-        
-        pq.push({grid[0][0], 0, 0});
-        
-        while (!pq.empty()) {
-            auto [max_d, r, c] = pq.top();
-            pq.pop();
-            
-            if (seen.count({r, c})) continue;
-            seen.insert({r, c});
-            
-            if (r == m-1 && c == n-1) return max_d;
-            
-            for (auto [dr, dc] : directions) {
-                int nr = r + dr, nc = c + dc;
-                if (nr >= 0 && nr < m && nc >= 0 && nc < n && !seen.count({nr, nc})) {
-                    int new_d = max(max_d, grid[nr][nc]);
-                    pq.push({new_d, nr, nc});
-                }
+        int n = grid.size();
+    vector<vector<int>> vis(n, vector<int>(n, 0));
+    priority_queue<vector<int>, vector<vector<int>>, greater<>> pq;
+
+    pq.push({grid[0][0], 0, 0});
+    vis[0][0] = 1;
+    int dir[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};
+
+    while (!pq.empty()) {
+        auto t = pq.top(); pq.pop();
+        int time = t[0], r = t[1], c = t[2];
+        if (r == n-1 && c == n-1) return time;
+
+        for (auto &d : dir) {
+            int nr = r + d[0], nc = c + d[1];
+            if (nr>=0 && nc>=0 && nr<n && nc<n && !vis[nr][nc]) {
+                vis[nr][nc] = 1;
+                pq.push({max(time, grid[nr][nc]), nr, nc});
             }
         }
-        return -1;
+    }
+    return -1;
     }
 };
