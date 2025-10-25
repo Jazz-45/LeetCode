@@ -11,16 +11,15 @@ public:
 
         queue<pair<string,int>> q;
         q.push({beginWord,0});
-        s2.insert(beginWord);
+        s2.insert(beginWord); // -> visited set
 
         while(!q.empty()){
-            auto p=q.front();
-            q.pop();
+            auto p=q.front();q.pop();
+            
             string str=p.first;
             if(str==endWord) return p.second+1;
             
             int wordLen=str.length();
-            bool flag=true;
             for(int i=0;i<wordLen;i++){
                 for(int j=(int)('a');j<=(int)('z');j++){
                     string temp=str;
@@ -30,14 +29,10 @@ public:
                     if(s1.find(temp)!=s1.end() && s2.find(temp)==s2.end()){
                         q.push({temp,p.second+1});
                         s2.insert(temp);
-                        flag=true;
                     }
                 }
             }
-            if(flag==false && q.empty()) return 0;
-
         }
-
         return 0;
 
     }
