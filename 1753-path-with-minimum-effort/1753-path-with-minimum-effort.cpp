@@ -1,42 +1,43 @@
 class Solution {
 public:
-    int minimumEffortPath(vector<vector<int>>& grid) {
-        int m=grid.size(),n=grid[0].size();
+    bool isValid(int nrow,int ncol,int n,int m){
+        return nrow>=0 && ncol>=0 && nrow<n && ncol<m;
+    }
+    int minimumEffortPath(vector<vector<int>>& heights) {
+        int n=heights.size(),m=heights[0].size();
+        vector<vector<int>> dist(n,vector<int>(m,1e9));
 
-        vector<vector<int>> distance(m,vector<int>(n,INT_MAX));
-        priority_queue<pair<int, pair<int,int>>, vector<pair<int, pair<int,int>>>, greater<pair<int, pair<int,int>>>> pq;
+        priority_queue<
+            pair<int, pair<int,int>>, 
+            vector<pair<int, pair<int,int>>>, 
+            greater<pair<int, pair<int,int>>>
+        > pq;
 
+
+        dist[0][0]=0;
         pq.push({0,{0,0}});
-        distance[0][0] = 0;
-
         while(!pq.empty()){
-            auto p = pq.top();
-            pq.pop();
-            int diff = p.first;
-            int row = p.second.first;
-            int col = p.second.second;
+            auto p=pq.top(); pq.pop();
+            int x=p.second.first; int y=p.second.second;
+            int effort=p.first;
 
-            if(row==m-1 && col==n-1) return diff;
+            int dx[]={1,-1,0,0};
+            int dy[]={0,0,1,-1};
 
-            int dx[]={-1,1,0,0};
-            int dy[]={0,0,-1,1};
-            for(int i=0;i<4;i++){
-                int nrow=row+dx[i];
-                int ncol=col+dy[i];
+            for(int k=0;k<4;k++){
+                int newr=x+dx[k],newc=y+dy[k];
 
-                if(nrow>=0 && nrow<m && ncol>=0 && ncol<n){
-                    // Push only when a shorter distance to that cell is found
-                    int newEffort=max(abs(grid[row][col]-grid[nrow][ncol]),diff);
-
-                    if(newEffort<distance[nrow][ncol]){
-                        distance[nrow][ncol]=newEffort;
-                        pq.push({newEffort,{nrow,ncol}});
+                if(isValid(newr,newc,n,m)){
+                    int newEffort=max(effort,abs(heights[x][y]-heights[newr][newc]));
+                    if(newEffort<dist[newr][newc]){
+                        pq.push({newEffort,{newr,newc}});
+                        dist[newr][newc]=newEffort;
                     }
                 }
             }
+            
         }
-        return 0;
 
-
+        return dist[n-1][m-1];
     }
 };
