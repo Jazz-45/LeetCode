@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Jazz-45/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jazz-45/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jazz-45/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Jazz-45/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Jazz-45/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Jazz-45/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Jazz-45/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jazz-45/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jazz-45/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Jazz-45/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Jazz-45/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Jazz-45/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Jazz-45/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Jazz-45/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -1439,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Jazz-45/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Jazz-45/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jazz-45/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Jazz-45/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Jazz-45/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Jazz-45/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Design
@@ -1616,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Jazz-45/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/Jazz-45/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Jazz-45/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Probability and Statistics
 |  |
 | ------- |
